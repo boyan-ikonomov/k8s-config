@@ -6,6 +6,7 @@ metadata:
   namespace: eks-example
   labels:
     app: eks-example
+    bla: mla
   annotations:
     # Container Image Automated Updates
     flux.weave.works/automated: "true"
